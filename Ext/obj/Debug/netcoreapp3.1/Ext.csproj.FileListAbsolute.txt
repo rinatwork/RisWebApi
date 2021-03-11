@@ -1,0 +1,9 @@
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\bin\Debug\netcoreapp3.1\Ext.deps.json
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\bin\Debug\netcoreapp3.1\Ext.dll
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\bin\Debug\netcoreapp3.1\Ext.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\obj\Debug\netcoreapp3.1\Ext.AssemblyInfoInputs.cache
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\obj\Debug\netcoreapp3.1\Ext.AssemblyInfo.cs
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\obj\Debug\netcoreapp3.1\Ext.csproj.CoreCompileInputs.cache
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\obj\Debug\netcoreapp3.1\Ext.dll
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\obj\Debug\netcoreapp3.1\Ext.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\Ext\obj\Debug\netcoreapp3.1\Ext.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\IDAL.dll
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\IDAL.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\rinatwork\source\repos\RisWebApi\DAL\bin\Debug\netcoreapp3.1\Entity.pdb

@@ -1,0 +1,14 @@
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\bin\Debug\netcoreapp3.1\IBLL.deps.json
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\bin\Debug\netcoreapp3.1\IBLL.dll
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\bin\Debug\netcoreapp3.1\IBLL.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\obj\Debug\netcoreapp3.1\IBLL.csprojAssemblyReference.cache
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfoInputs.cache
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfo.cs
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CoreCompileInputs.cache
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\obj\Debug\netcoreapp3.1\IBLL.dll
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\obj\Debug\netcoreapp3.1\IBLL.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\bin\Debug\netcoreapp3.1\IDAL.dll
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\bin\Debug\netcoreapp3.1\IDAL.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\rinatwork\source\repos\RisWebApi\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CopyComplete
